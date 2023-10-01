@@ -16,6 +16,7 @@ gem 'webpacker', '~> 5.0'
 gem 'devise'
 gem 'milia'
 gem 'aws-sdk'
+gem 'stripe'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
