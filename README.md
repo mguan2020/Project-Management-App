@@ -3,7 +3,7 @@
 A Ruby on Rails Software-as-a-Service project management application for freelance consultants to keep track of multiple projects and their status.
 
 
-#Getting Started
+# Getting Started
 
 In order to run the app, follow the steps below.
 
