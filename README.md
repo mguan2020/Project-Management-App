@@ -4,6 +4,7 @@ A Ruby on Rails Software-as-a-Service project management application for freelan
 
 
 #Getting Started
+
 In order to run the app, follow the steps below.
 
 1. Clone the repository
